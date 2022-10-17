@@ -2888,6 +2888,7 @@ ul.actions {
 ul.actions li {
 	padding: 0 0 0 1rem;
 	vertical-align: middle;
+	width: 250px;
 }
 
 ul.actions.special {
@@ -8808,15 +8809,15 @@ body.is-preload .items.onload-fade-in>*>.inner {
 	height: 170px;
 }
 
-.date{
+.date {
 	color: #828889;
 }
 
-.space{
+.space {
 	margin-bottom: 100px;
 }
 
-.color20{
+.color20 {
 	background-color: #a3e8f1;
 }
 
@@ -8827,6 +8828,77 @@ font-size: 28px;
 transition: all 1s ease-in ;
 } */
 
-.work_date{
+.work_date {
 	margin-left: 10px;
+}
+
+.language {
+	height: 100px;
+	width: 100px;
+	object-fit: cover;
+	margin-bottom: 20px;
+	/* margin-right: 20px; */
+}
+
+.language_container {
+	/* flex-wrap: wrap; */
+}
+
+.words {
+	margin-left: -110px;
+}
+
+.flex {
+	display: flex;
+	flex-direction: column-reverse;
+	align-items: center;
+	flex-wrap: wrap;
+}
+
+.container {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.picture {
+	width: 220px;
+}
+
+.picture1 {
+	height: 110px;
+}
+
+.picture2 {
+	height: 115px;
+}
+
+.picture3 {
+	width: 135px;
+}
+
+.picture4 {
+	height: 105px;
+}
+
+.Education {
+	text-align: left;
+}
+
+.picture5 {
+	width: 115px;
+	height: 115px;
+}
+
+.picture6 {
+	width: 130px;
+}
+
+
+.picture8 {
+	width: 135px;
+	margin-left: 25px;
+}
+
+.picture9 {
+	margin-left: 20px;
 }
