@@ -8899,3 +8899,8 @@ transition: all 1s ease-in ;
 .picture9 {
 	margin-left: 20px;
 }
+
+.ul-center{
+	align-items: center;
+}
+	
